@@ -36,7 +36,7 @@ while read line; do
     $(echo $key " " $count | awk '{print $1 ":" $2}' >> $keyReplace)
 done < $tempText
 
-$(cat $keyReplace | tr '\n' ' ' | sed -e "s/^/$label /" | sed "s/ *$/\n/g" >> text.libsvm)
+$(cat $keyReplace | sort -t: -n | tr '\n' ' ' | sed -e "s/^/$label /" | sed "s/ $/\n/g" >> text.libsvm)
 
 
 rm $tempText
