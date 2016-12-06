@@ -1,0 +1,8 @@
+
+This is John from the space meetup.  Count me in for a talk or series of talks, depending on how things unroll, to be titled "Hacking into Orbit" with a focus on the leadership role that software engineers can take in pushing "hard tech" forward, with space travel as the demonstrative problem.
+
+To that end, I will be gathering up more recent information about what software is used in practice.  I also have a small network into private aerospace companies that I will poll about what their grievances, experience, and outlook.  
+
+I would guess that NASA has all of the same experiences and less trade-secret restriction, but that can go both ways being in a public agency that also has national security concerns.  If you know anyone interested in the discussion, I'm definitely interested in getting their knowledge into the stew.
+
+Slotting something for February seems safe.
